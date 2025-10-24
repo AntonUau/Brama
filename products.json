@@ -1,0 +1,45 @@
+[
+  {
+    "title": "U\u2011Arch with Asymmetric Spray",
+    "desc": "Matte ivory U\u2011arch with lush faux florals in blush & cream.",
+    "price": "from $520",
+    "image": "assets/prod-u-arch.jpg",
+    "alt": "Ivory U-arch decorated with asymmetric floral spray",
+    "tags": [
+      "Popular",
+      "NYC",
+      "Custom"
+    ]
+  },
+  {
+    "title": "Circle Arch \u2014 Greenery",
+    "desc": "Minimal circle frame with organic greenery garland.",
+    "price": "from $480",
+    "image": "assets/prod-circle.jpg",
+    "alt": "Circle arch with greenery garland",
+    "tags": [
+      "Modern"
+    ]
+  },
+  {
+    "title": "Flower Wall 8\u00d78",
+    "desc": "Premium faux roses & peonies. Neon-ready.",
+    "price": "from $680",
+    "image": "assets/prod-flowerwall.jpg",
+    "alt": "White flower wall backdrop",
+    "tags": [
+      "Backdrop",
+      "Neon-ready"
+    ]
+  },
+  {
+    "title": "Pedestal Trio",
+    "desc": "3 pedestals, varying heights. Perfect for aisle clusters.",
+    "price": "from $220",
+    "image": "assets/prod-pedestals.jpg",
+    "alt": "Set of three pedestals with arrangements",
+    "tags": [
+      "Add-on"
+    ]
+  }
+]
